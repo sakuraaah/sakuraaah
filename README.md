@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakuraaah
-- 👀 I’m interested in: making useful programs (especially on Python)
+- 👀 I’m interested in: making useful programs (especially on C++, Python)
 - 🌱 I’m currently learning: C++, Python, Java, PHP, SQL
 - 💞️ I’m looking to collaborate on: literally everything
 - 📫 How to reach me: dm if you want
